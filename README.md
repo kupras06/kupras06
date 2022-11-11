@@ -6,7 +6,7 @@
   - Frameworks : React, Remix, NextJS, Vue, FastAPI, Flask, Django.
 - 📫 How to reach me email :
       - prash8669@yahoo.com (*preffered*)
-       prash8669@gmail.com
+      - prash8669@gmail.com
 
 <!---
 kupras06/kupras06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
