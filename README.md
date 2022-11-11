@@ -1,5 +1,5 @@
 - 👋 Hi, I am Prashanth Kumar
-- I'm a **Software Enginer I ( Full Stack ) @ [BRIQ](https://www.briq.com/){:target="_blank"}**
+- I'm a **Software Enginer I ( Full Stack ) @ [BRIQ](https://www.briq.com/)**
 - **Tech Knowledge** :
   - Languages : JavaScript, TypeScript, Python
                 *Familiar With* : Java, C#, C++
