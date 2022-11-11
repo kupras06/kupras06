@@ -4,7 +4,7 @@
   - Languages : JavaScript, TypeScript, Python
                 *Familiar With* : Java, C#, C++
   - Frameworks : React, Remix, NextJS, Vue, FastAPI, Flask, Django.
-- 📫 How to reach me email :
+- 📫 How to reach me on email :
   - prash8669@gmail.com (*preffered*)
   - prash8669@yahoo.com
 
