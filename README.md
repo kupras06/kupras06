@@ -1,10 +1,10 @@
-- 👋 Hi, I am Prashanth Kumar
-- I'm a **Software Enginer I ( Full Stack ) @ [BRIQ](https://www.briq.com/)**
-- **Tech Knowledge** :
+👋 Hi, I am Prashanth Kumar
+I'm a **Software Enginer I ( Full Stack ) @ [BRIQ](https://www.briq.com/)**
+**Tech Knowledge** :
   - Languages : JavaScript, TypeScript, Python
                 *Familiar With* : Java, C#, C++
   - Frameworks : React, Remix, NextJS, Vue, FastAPI, Flask, Django.
-- 📫 How to reach me on email :
+📫 How to reach me on email :
   - prash8669@gmail.com (*preffered*)
   - prash8669@yahoo.com
 
