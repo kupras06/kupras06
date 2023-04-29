@@ -47,10 +47,13 @@ BRIQ
 
 ### 💻 &nbsp; Somethings About Me :
 
-
-And open source tech enthusiast <img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="30"> from India.
+Hi, I'm a software developer from India, with 2 years of experience in building web applications. I specialize in using Remix, Vue, FastAPI to create robust and efficient solutions for my clients.
 
   
+## Certifications
+- [Google IT Automation with Python](https://coursera.org/share/674c670c1291c014549f04032f4df14d) via Coursera — July 2020
+- [Python For Everybody Specialization](https://coursera.org/share/e4e77764107ad0bf5b13843477c53175)	via Coursera — July 2020
+- [Infosys Certified Software Programmer](https://drive.google.com/file/d/1DuzEKsBtZi15b8qzkOfgXDK1pS4hFqU7/view?usp=sharing) via InfyTQ — June 2020
 
 ---
 
