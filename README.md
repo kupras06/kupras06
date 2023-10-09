@@ -3,7 +3,6 @@
 
 ##### Thanks For Coming Here
 
-I'm a **Software Enginer I ( Full Stack ) @ [BRIQ](https://www.briq.com/)**
 
 
 
