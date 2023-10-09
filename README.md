@@ -46,7 +46,7 @@ BRIQ
 
 ### 💻 &nbsp; Somethings About Me :
 
-Hi, I'm a software developer from India, with 2 years of experience in building web applications. I specialize in using Remix, Vue, FastAPI to create robust and efficient solutions for my clients.
+Hi, I'm a software developer from India, with 2 years of experience in building web applications. I user Remix, NextJS, Vue, FastAPI to create robust and efficient solutions for my clients.
 
   
 ## Certifications
