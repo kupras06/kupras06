@@ -117,6 +117,4 @@ Hi, I'm a software developer from India, with 2 years of experience in building 
 
 📫 How to reach me on email :
 
-- prash8669@gmail.com (*preffered*)
-
-- prash8669@yahoo.com
+- prash8669@yahoo.com (*preffered*)
