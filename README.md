@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 <div  id="header"  align="center">
 
-<h1> I'm a <strong>Software Engineer I ( Full Stack )</strong> @ <a target="_blank" href="www.briq.com">
+<h1> I'm a <strong>Full Stack Software Engineer</strong> @ <a target="_blank" href="www.briq.com">
 <strong>
 BRIQ
 </strong>
